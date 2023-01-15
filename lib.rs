@@ -1,2 +1,0 @@
-mod mayas;
-mod mayasuser;
